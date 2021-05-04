@@ -4,11 +4,10 @@ import AppHeader from './components/AppHeader';
 import AppContainer from './containers/AppContainer';
 import './App.css';
 
-unction App() {
+function App() {
   return (
     <div className="App">
-      <AppHeader />
-      <AppContainer />
+		<b> Great...!</b>
     </div>
   );
 }
